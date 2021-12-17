@@ -3,7 +3,7 @@ Adventures with an Ender 5 Plus using BigTreeTech Octopus v1.1
 
 ### Always exercise extreme caution when doing anything with electricity, especially high voltage!
 
-The information in this repository is licensed under the MIT license unless otherwise already licensed (like the Marlin source and config files which are GPL).
+The information in this repository is licensed under the GPL v3 license unless otherwise already licensed with one that conflicts with this license.
 
 Please remember, my printer is most likely different from yours. You may need to make modifications to the configuration and compile your own firmware if you find that mine does not work for you.
 
